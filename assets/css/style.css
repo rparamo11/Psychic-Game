@@ -1,0 +1,41 @@
+body {
+    font-family: 'Dosis', sans-serif;
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+    background-color: 
+}
+
+nav {
+    height: 80px;
+    background-color: teal;
+}
+
+h1 {
+    margin: 0px;
+    padding: 15px;
+    color: white;
+    font-size: 50px;
+}
+
+h2 {
+    font-size: 35px;
+}
+
+p {
+    font-size: 35px;
+}
+
+
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) { ... }
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) { ... }
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) { ... }
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) { ... }
